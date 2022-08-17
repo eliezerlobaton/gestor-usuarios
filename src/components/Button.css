@@ -9,3 +9,7 @@ button.button {
   padding: 10px 20px;
   cursor: pointer;
 }
+
+button.button:hover {
+  background-color: #1678c2;
+}
