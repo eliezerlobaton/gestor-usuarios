@@ -22,6 +22,7 @@ function App() {
     reset()
   }
   console.log(formulario)
+  console.log(formulario)
   return (
     <div style={{ marginTop: '15%' }}>
       <Conatiner>
